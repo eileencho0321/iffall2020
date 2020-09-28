@@ -1,0 +1,41 @@
+img {
+    width: 200px;
+    border: 20px solid gold;
+}
+
+body {
+    padding-top: 40px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+h2{
+    color: rgb(206, 0, 0);
+}
+a:link{
+    text-decoration: underline;
+    color:rgb(206, 0, 0);
+}
+a:hover{
+    color:gold;
+}
+
+a:visited{
+    color: rgb(206, 0, 0);
+}
+
+
+h1{
+    font-family:'Franklin Gothic Medium';
+    font-size: 50px;
+    color: gold;
+}
+.subtitle{
+    color:gold;
+}
+.lyrics{
+    padding-top: 15px;
+    padding-bottom:15px;
+}
