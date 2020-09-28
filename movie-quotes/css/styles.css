@@ -1,0 +1,39 @@
+body {
+   font-family: Verdana;
+}
+
+div {
+   border-bottom: solid 1px gray;
+   padding: 15px 0px 15px 0px
+}
+
+h1{
+   font-size: 75px; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: bold;
+   color: red;
+}
+.venkman {
+   font-weight: bold;
+   color :red;
+}
+.dana {
+   font-weight: bold;
+   color: blue;
+}
+.mayor {
+   font-weight: bold;
+   color: green;
+}
+.winston {
+   font-weight: bold;
+   color: orange
+}
+.egon {
+   font-weight: bold;
+   color: darkmagenta
+}
+.stantz {
+   font-weight: bold;
+   color: purple;
+}
