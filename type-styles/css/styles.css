@@ -1,0 +1,88 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13pt;
+    margin: 2% 10%;
+    color: rgb(139, 139, 139);
+}
+header{
+    color: rgb(88, 88, 88);
+    padding-bottom: 2%;
+    font-size: 15pt;
+}
+h1{
+    font-size: 90pt;
+}
+h2 {
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(100, 124, 148);
+    font-size: 23pt;
+    padding-bottom: 12pt;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(100, 124, 148);
+    font-size: 16pt;
+}
+
+p{
+    padding-bottom: 1%;
+}
+section{
+    padding-bottom: 20pt;
+}
+.description{
+    text-indent: 7%;
+}
+
+.regular{
+    font-weight: 400;
+}
+.light{
+    font-weight: 300;
+}
+.semi-bold{
+    font-weight: 500;
+}
+.bold{
+    font-weight: 700;
+}
+.extra-bold{
+    font-weight: 800;
+}
+.italic{
+    font-style: italic;
+}
+.tight{
+    letter-spacing: -0.1em;
+}
+.loose{
+    letter-spacing: 0.5em;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.underline{
+    text-decoration: underline;
+}
+.overline{
+    text-decoration: overline;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.doubleunder{
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.wavyunder{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
