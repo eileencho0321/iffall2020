@@ -1,0 +1,112 @@
+html{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+header {
+    text-align: center;
+    color: rgb(219, 230, 255);
+    background-image: url(https://images.unsplash.com/photo-1603398910023-7aab8a08132c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2800&q=80);
+    background-size: cover;
+    background-position: center 50%;
+    padding-top:150px;
+    height: 330px;
+}
+
+h1{
+    font-size: 61pt;
+    margin:auto;
+    margin-bottom: -3pt;
+}
+h2{
+    margin-top: 0;
+    font-size: 22.5pt; 
+}
+
+h3{
+   text-align: center; 
+   font-size: 30pt;
+   margin-bottom:35px;
+}
+p{
+    font-size: 13.4pt;
+    line-height: 19pt;
+}
+.sections{
+    width: 66%;
+    margin: auto;
+}
+.one {
+    color: rgb(50, 77, 104);
+    background-color:rgb(253, 251, 232);
+    background-size: cover;
+    overflow-x: hidden;
+    padding-bottom: 32px;
+}
+.image-one{
+    height: 300px;
+    width: 400px;
+    float: right;
+    object-fit: cover;
+    border: solid white;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.two {
+    color: rgb(50, 77, 104);
+    background-color:rgb(219, 230, 255);
+    background-size: cover;
+    overflow-x: hidden;
+    padding-bottom: 31px;
+}
+.grid {
+    display:grid;
+    padding:0; 
+    grid-template-columns: 1fr 1fr;
+}
+.grid li{
+    align-items: left;
+    display: inline-block;
+    width:100%;
+    margin-bottom: 21px;
+}
+.grid li img{
+    width: 200px;
+    height: 150px;
+    float:left;
+    margin-right:10px;
+}
+h4 {
+    font-size: 16pt;
+    margin:0;
+    padding-bottom: 2pt;
+}
+.photo-text{
+    font-size: 13.5pt;
+    width:90%;
+    line-height: 20pt;
+}
+.three{
+    background-color: rgb(50, 77, 104);
+   color:rgb(253, 251, 232);
+    background-size: cover;
+    overflow-x: hidden;
+    padding-bottom:98px;
+}
+
+.last-text {
+    width: 49%;
+    margin: auto; 
+    text-align: center;
+    font-size: 19pt;
+    line-height: 27pt;
+}
+
+footer {
+    background-color: rgb(30, 48, 66);
+    background-size: cover;
+    overflow: hidden;
+    color:rgb(253, 251, 232);
+    padding-top:30pt;
+    padding-left: 180pt; 
+    padding-bottom: 30pt;
+    font-size: 14pt;
+}
