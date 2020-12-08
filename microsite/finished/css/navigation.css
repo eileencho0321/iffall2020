@@ -1,0 +1,23 @@
+html{
+    background-color: #1d4a8c;
+    font-family: bodega-serif, serif;
+}
+li{
+    list-style-type: none;
+    margin:auto;
+    text-align: center;
+}
+nav{
+    margin-top: 10%;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 50pt;
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: #d21242;
+}
